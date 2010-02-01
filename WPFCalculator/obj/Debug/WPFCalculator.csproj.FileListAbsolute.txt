@@ -1,0 +1,7 @@
+F:\C#\WPFCalculator\WPFCalculator\obj\Debug\ResolveAssemblyReference.cache
+F:\C#\WPFCalculator\WPFCalculator\bin\Debug\WPFCalculator.exe
+F:\C#\WPFCalculator\WPFCalculator\bin\Debug\WPFCalculator.pdb
+F:\C#\WPFCalculator\WPFCalculator\obj\Debug\WPFCalculator.exe
+F:\C#\WPFCalculator\WPFCalculator\obj\Debug\WPFCalculator.pdb
+K:\C#\WPFCalculator\WPFCalculator\obj\Debug\WPFCalculator.exe
+K:\C#\WPFCalculator\WPFCalculator\obj\Debug\WPFCalculator.pdb

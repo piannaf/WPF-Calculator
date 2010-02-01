@@ -1,0 +1,10 @@
+Calculator Demo
+
+To get a better understanding of the .NET framework and C#, I refactored out all the XAML from the original sample into pure C#. It is a direct port so uses WPF and follows the same structure of the original program.
+
+Original: ~28megs RAM (16KB exe)
+No XAML: ~27.5megs RAM (21KB exe)
+
+The original program is copywrite Microsoft so I do not claim to hold the copywrite on this derived work. However, as this project was concieved for educational purposes, I assume to hold the right to distribute it.
+
+Original: http://msdn.microsoft.com/en-us/library/ms771362.aspx
